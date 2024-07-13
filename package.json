@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "backend for an e-commerce app",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ananya",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.1",
+    "validator": "^13.12.0"
+  }
 }
