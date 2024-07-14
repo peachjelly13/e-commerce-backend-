@@ -22,4 +22,4 @@ This project aims to create a backend for a shopping platform with a focus on __
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/username/shopping-platform-backend.git
+   fork this repo and clone the project 
