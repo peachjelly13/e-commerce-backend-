@@ -21,7 +21,13 @@ This project aims to create a backend for a shopping platform with a focus on __
 - **Beginner-Friendly:** Designed for beginners to learn backend development.
 - **Shopping Platform:** Core functionalities for a shopping platform backend.
 
-##Details
+## Details
+- **User Model**
+The user model has the following functionalities:
+  1. __Compare passwords using bcrypt__.
+  2. __Generating access token and refresh token using jwt, we use jwt to create these tokens.__
+  3. __Reset Password using a link which is sent to the user__.
+
 
 ## Installation
 1. Clone the repository:
