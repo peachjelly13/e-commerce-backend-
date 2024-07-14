@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
+- [Details](#details)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -19,6 +20,8 @@ This project aims to create a backend for a shopping platform with a focus on __
 - **Extensive Comments:** Detailed comments for every function, library, and method used.
 - **Beginner-Friendly:** Designed for beginners to learn backend development.
 - **Shopping Platform:** Core functionalities for a shopping platform backend.
+
+##Details
 
 ## Installation
 1. Clone the repository:
