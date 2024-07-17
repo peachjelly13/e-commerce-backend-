@@ -27,7 +27,9 @@ The user model has the following functionalities:
   1. __Compare passwords using bcrypt__.
   2. __Generating access token and refresh token using jwt, we use jwt to create these tokens.__
   3. __Reset Password using a link which is sent to the user__.
-
+- **Payment Model**
+- **Order Model**
+- **Product Model**
 
 ## Installation
 1. Clone the repository:
