@@ -33,3 +33,4 @@ const errorMessage = (error,req,res,next) =>{
 
     });
 }
+export{errorMessage}
